@@ -81,3 +81,34 @@ Computação em nuvem (Cloud Computing) é a entrega de serviços de computaçã
     * [A Evolução da Computação em Nuvem: IAAS, PAAS, SAAS, CAAS e FAAS | DIO](https://www.dio.me/articles/a-evolucao-da-computacao-em-nuvem-iaas-paas-saas-caas-e-faas)
 
 Espero que esta visão aprofundada ajude nos seus estudos! Se tiver mais alguma dúvida ou quiser explorar algum ponto específico, me diga.
+
+## 4 - Azure Cloud: diferença entre recursos pagos, precificação e implementação no Azure.
+
+**Resumo dos Tópicos Abordados:**
+
+  * **Azure como Nuvem Econômica para SQL Server:** A apresentação argumenta que o Azure é mais econômico para cargas de trabalho do SQL Server em comparação com a AWS, mencionando desempenho superior a um custo menor. Destaca-se o Azure SQL Managed Instance e como as Máquinas Virtuais do SQL Server no Azure podem ter desempenho mais rápido e custo menor que o AWS EC2.
+  * **Computação Sem Servidor (Serverless Computing):**
+      * **Definição:** Explica o conceito de computação sem servidor, onde o provedor de nuvem gerencia a infraestrutura, permitindo que os desenvolvedores foquem na lógica da aplicação. Azure Functions é citado como exemplo, baseado no serviço de aplicativo do Azure.
+      * **Benefícios:** Incluem a ausência de gerenciamento de infraestrutura, escalabilidade dinâmica, menor tempo de colocação no mercado e uso mais eficiente dos recursos.
+      * **Arquitetura de Exemplo:** Apresenta uma arquitetura sem servidor envolvendo Event Hubs para ingestão de eventos, um Function App para processamento, Cosmos DB para armazenamento, uma fila de armazenamento para mensagens de devolução (dead letter messages), Azure Monitor para monitoramento e Azure Pipelines para CI/CD.
+  * **Recursos Pagos, Precificação e Implementação no Azure:**
+      * **Recursos Pagos:** Define recursos pagos no Azure, como Máquinas Virtuais, Armazenamento e Banco de Dados. 
+      * **Modelos de Pagamento:** Menciona modelos como pagamento conforme o uso, assinaturas e reservas. 
+      * **Calculadora de Preços:** Sugere o uso da Calculadora de Preços do Azure para estimar custos. 
+      * **Fatores de Precificação:** Lista fatores que influenciam o preço, como localização, tipo de recurso e uso.
+      * **Opções de Economia:** Apresenta o Benefício Híbrido do Azure, reservas e planos de economia.
+      * **Implementação e Impacto no Custo:** Discute como as escolhas de implementação (configuração, redundância, escalabilidade, segurança Zero Trust com Entra ID e Azure Firewall) podem impactar a precificação. 
+      * **Melhores Práticas:** Aborda a importância da governança, segurança, automação, e o uso de Grupos de Recursos, Tags e Políticas do Azure para gerenciamento de custos.
+  * **Azure Workbooks:** Descreve o Azure Workbooks como uma ferramenta para criar visualizações interativas, integrar dados de várias fontes do Azure, compartilhar relatórios e automatizar atualizações para monitorar e otimizar custos.
+  * **Benefícios da Modernização e Crescimento da Nuvem:** Apresenta dados sobre os benefícios da modernização do patrimônio de dados com nuvem, dados e IA, e estatísticas sobre o crescimento do mercado de nuvem (dados de 2019 para IaaS, PaaS e SaaS).
+  * **Palestrante:** A apresentação é de Carol Lavecchia, Fundadora e CEO da Invictus Data & AI, com experiência em Arquitetura e Engenharia de Dados, DevOps, BI, BigData, entre outros, e premiada como Microsoft MVP.
+
+**Links Disponíveis na Apresentação:**
+
+  * Melhores práticas de arquitetura do Azure: [https://learn.microsoft.com/pt-br/azure/architecture/best-practices/index-best-practices](https://learn.microsoft.com/pt-br/azure/architecture/best-practices/index-best-practices) 
+  * Preços de Máquinas Virtuais do Azure (Windows):
+      * [https://azure.microsoft.com/pt-br/pricing/details/virtual-machines/windows/\#pricing](https://www.google.com/search?q=https://azure.microsoft.com/pt-br/pricing/details/virtual-machines/windows/%23pricing) 
+      * [https://azure.microsoft.com/pt-br/pricing/details/virtual-machines/windows/](https://azure.microsoft.com/pt-br/pricing/details/virtual-machines/windows/) 
+  * Preços do Azure AI Foundry: [https://azure.microsoft.com/pt-br/products/ai-foundry/\#Pricing](https://www.google.com/search?q=https://azure.microsoft.com/pt-br/products/ai-foundry/%23Pricing) 
+  * Benefício Híbrido do Azure: [https://azure.microsoft.com/pt-br/pricing/hybrid-benefit/](https://azure.microsoft.com/pt-br/pricing/hybrid-benefit/) 
+  * Visão geral do Azure Workbooks: [https://learn.microsoft.com/pt-br/azure/azure-monitor/visualize/workbooks-overview](https://learn.microsoft.com/pt-br/azure/azure-monitor/visualize/workbooks-overview) 
