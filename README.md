@@ -111,4 +111,39 @@ Espero que esta visão aprofundada ajude nos seus estudos! Se tiver mais alguma 
       * [https://azure.microsoft.com/pt-br/pricing/details/virtual-machines/windows/](https://azure.microsoft.com/pt-br/pricing/details/virtual-machines/windows/) 
   * Preços do Azure AI Foundry: [https://azure.microsoft.com/pt-br/products/ai-foundry/\#Pricing](https://www.google.com/search?q=https://azure.microsoft.com/pt-br/products/ai-foundry/%23Pricing) 
   * Benefício Híbrido do Azure: [https://azure.microsoft.com/pt-br/pricing/hybrid-benefit/](https://azure.microsoft.com/pt-br/pricing/hybrid-benefit/) 
-  * Visão geral do Azure Workbooks: [https://learn.microsoft.com/pt-br/azure/azure-monitor/visualize/workbooks-overview](https://learn.microsoft.com/pt-br/azure/azure-monitor/visualize/workbooks-overview) 
+  * Visão geral do Azure Workbooks: [https://learn.microsoft.com/pt-br/azure/azure-monitor/visualize/workbooks-overview](https://learn.microsoft.com/pt-br/azure/azure-monitor/visualize/workbooks-overview)
+
+# 6 - Onde estudar e como aprender praticando com a conta gratuita
+
+**Resumo dos Tópicos Abordados:**
+
+  * **Evolução do Aprendizado Microsoft:** A aula inicia comparando os métodos tradicionais de estudo para certificações Microsoft (livros, cursos presenciais, laboratórios práticos) com a facilidade do eLearning atual.
+  * **Microsoft Learn:** É o principal destaque como plataforma central de aprendizado.
+      * Oferece documentação técnica, treinamentos práticos, roteiros de aprendizagem personalizados, exemplos de código e desafios para obter certificações.
+      * Cobre uma vasta gama de produtos e tecnologias Microsoft, incluindo Azure, Microsoft 365, Dynamics 365, Power Platform, e linguagens de programação.
+      * Permite aos usuários acompanhar seu progresso e conquistas através de perfis pessoais, como o da própria instrutora, Carol Lavecchia, exibido como exemplo.
+  * **Portal do Azure:** Mencionado como o local para acessar e gerenciar os serviços do Azure.
+  * **GitHub do Azure (Azure Samples):** Apresentado como um repositório de exemplos de código e projetos práticos para desenvolvedores que utilizam o Azure.
+  * **Certificações Microsoft:** Detalha o programa de certificações da Microsoft, com caminhos para diferentes funções (Fundamentals, Role-based, Specialty) em diversas áreas como infraestrutura, dados, IA, desenvolvimento de aplicativos, entre outras.
+  * **Recursos Específicos no Microsoft Learn:**
+      * **Documentação do Desenvolvedor do Azure:** Conteúdo focado para desenvolvedores que trabalham com a plataforma Azure.
+      * **Hub de Aprendizagem de IA:** Centraliza recursos para quem deseja aprender sobre Inteligência Artificial com tecnologias Microsoft.
+      * **Microsoft Learn para Organizações:** Ferramentas e programas para empresas treinarem suas equipes.
+      * **Certificações para Estudantes:** Informações sobre certificações voltadas para o público estudantil.
+  * **Microsoft Ninja Trainings:** Programas de treinamento avançado, com um exemplo focado em Microsoft Purview e Data Loss Prevention (DLP). São fornecidas legendas e acrônimos relevantes para esta área.
+  * **Informações da Apresentadora:** A apresentação é conduzida por Carol Lavecchia, que é Founder & CEO na Invictus Data & AI.
+
+**Links Disponíveis na Apresentação:**
+
+  * Microsoft Learn: [https://learn.microsoft.com](https://learn.microsoft.com)
+  * Portal do Azure: [https://portal.azure.com/](https://www.google.com/search?q=https://portal.azure.com/)
+  * GitHub - Azure Samples: [https://github.com/Azure-Samples](https://github.com/Azure-Samples)
+  * Certificações Microsoft: [https://learn.microsoft.com/pt-br/certifications/](https://learn.microsoft.com/pt-br/certifications/)
+  * Poster de Certificações Microsoft (atalho): [aka.ms/CertificationsPoster](https://aka.ms/CertificationsPoster)
+  * Documentação do Desenvolvedor do Azure: [https://learn.microsoft.com/pt-br/azure/developer/](https://learn.microsoft.com/pt-br/azure/developer/)
+  * Hub de Aprendizagem de IA Microsoft: [https://learn.microsoft.com/pt-br/ai/](https://learn.microsoft.com/pt-br/ai/) 
+  * Microsoft Learn para Organizações: [https://learn.microsoft.com/pt-br/training/organizations](https://learn.microsoft.com/pt-br/training/organizations)
+  * Certificações Microsoft para Estudantes: [https://learn.microsoft.com/pt-br/training/student-hub/certifications](https://learn.microsoft.com/pt-br/training/student-hub/certifications) 
+  * Artigo sobre Treinamentos Microsoft Ninja (LinkedIn): [https://www.linkedin.com/pulse/every-microsoft-ninja-training](https://www.google.com/search?q=https://www.linkedin.com/pulse/every-microsoft-ninja-training)
+
+
