@@ -146,4 +146,38 @@ Espero que esta visão aprofundada ajude nos seus estudos! Se tiver mais alguma 
   * Certificações Microsoft para Estudantes: [https://learn.microsoft.com/pt-br/training/student-hub/certifications](https://learn.microsoft.com/pt-br/training/student-hub/certifications) 
   * Artigo sobre Treinamentos Microsoft Ninja (LinkedIn): [https://www.linkedin.com/pulse/every-microsoft-ninja-training](https://www.google.com/search?q=https://www.linkedin.com/pulse/every-microsoft-ninja-training)
 
+Aqui vai um resumo direto ao ponto do conteúdo do arquivo:
 
+---
+
+### **Aula 07 - Resumo – Curso de Azure (DIO)**
+
+#### **Tópicos Abordados:**
+
+* Criação de recursos no Azure voltados para engenharia de dados:
+
+  * Azure Data Factory
+  * Azure DevOps
+  * Storage Account + Container
+  * SQL Database (com servidor)
+  * Banco de Dados e Tabelas
+
+#### **Procedimentos detalhados:**
+
+* Criação de uma organização no DevOps
+* Conexão do Azure Data Factory com Git do DevOps
+* Criação de Linked Services
+* Configuração do **Integration Runtime**
+
+  * Necessário colar a **Key2** do IR
+
+#### **Microsoft Fabric:**
+
+* Criação de um **Workspace** no Microsoft Fabric
+
+---
+
+### **Links mencionados no material:**
+
+1. 🔗 [Download Integration Runtime – Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=39717)
+2. 🔗 [Microsoft Fabric – Workspace](https://app.fabric.microsoft.com)
