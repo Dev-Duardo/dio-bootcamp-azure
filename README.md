@@ -181,3 +181,106 @@ Aqui vai um resumo direto ao ponto do conteúdo do arquivo:
 
 1. 🔗 [Download Integration Runtime – Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=39717)
 2. 🔗 [Microsoft Fabric – Workspace](https://app.fabric.microsoft.com)
+
+Fechado! Vamos deixar isso aqui mais encorpado, com explicações na medida certa pra você entender o que realmente importa sem enrolação.
+
+---
+
+### ** Aula 8 - Curso de Azure (DIO)**
+
+**Tema:** A história da **Databricks** e os principais projetos que impulsionaram a revolução no tratamento de dados massivos.
+
+**Instrutora:** Carol Lavecchia – especialista em Data Platform e MVP Microsoft, com bagagem pesada na área de engenharia de dados.
+
+---
+
+### 🔍 **Tópicos Abordados (com mais explicações)**
+
+#### 🧠 **Origens da Databricks**
+
+* A **Databricks** nasceu em 2013 como uma spin-off acadêmica da **Universidade da Califórnia, Berkeley**, mais especificamente do laboratório **AMPLab**.
+* Os fundadores foram Ali Ghodsi, Matei Zaharia (criador do Spark!) e Ion Stoica — todos nerds de peso em processamento de dados e sistemas distribuídos.
+* A ideia deles era levar tecnologias de pesquisa (como o Spark) pro mundo real, ajudando empresas a lidarem com dados gigantescos de forma simples e eficiente.
+
+---
+
+#### ⚡ **Projetos que deram origem à Databricks**
+
+##### 🔥 **Apache Spark**
+
+* Framework de código aberto criado em 2009 no AMPLab.
+* Permite **processar grandes volumes de dados em paralelo**, em clusters.
+* Mais rápido que o tradicional Hadoop MapReduce, e com suporte a APIs em Python, Scala, Java, R e SQL.
+* Usado tanto pra ETL quanto pra análise em tempo real, aprendizado de máquina, etc.
+* Está presente em 80% das empresas da Fortune 500.
+
+##### 💧 **Delta Lake**
+
+* Uma camada de armazenamento transacional sobre o Apache Spark.
+* Traz o melhor dos dois mundos: a flexibilidade do data lake com a confiabilidade do data warehouse.
+* Permite **transações ACID** (o que é raro em ambientes distribuídos), **versionamento de dados** e **validação de schema**.
+* É essencial quando você quer garantir que seus dados estejam sempre consistentes mesmo com múltiplos processos acessando/alterando eles.
+
+##### 🤖 **MLflow**
+
+* Ferramenta para gerenciar todo o **ciclo de vida de modelos de Machine Learning**: do treinamento ao deployment.
+* Ajuda a rastrear experimentos, versionar modelos e reutilizar pipelines.
+* É agnóstico: você pode usar com qualquer biblioteca (Scikit-learn, TensorFlow, PyTorch…).
+
+---
+
+#### 🚀 **Apache Spark – Mais Detalhado**
+
+##### ✅ **O que é?**
+
+* Um mecanismo de processamento **distribuído** e **resiliente**.
+* Suporta tarefas como leitura de dados em massa, transformação, agregação e análise, tudo em paralelo.
+
+##### 💡 **Por que usar?**
+
+* Porque é rápido, escalável e muito bem aceito no mercado.
+* Processa terabytes em minutos (em vez de horas).
+* Serve pra pipelines de dados, análise em batch ou tempo real, e ML.
+
+##### ⚙️ **Arquitetura**
+
+* **Driver:** O cérebro do processo. Ele divide o trabalho, agenda tarefas e monitora a execução.
+* **Executors:** As “mãos” do sistema. Recebem as tarefas e executam em paralelo, mandando o resultado de volta pro driver.
+* Tudo roda em cima de um cluster (Spark Standalone, YARN, Mesos ou Kubernetes).
+
+---
+
+#### 🌍 **A Fundação Apache**
+
+* A Apache Software Foundation (ASF) é uma das **maiores organizações de código aberto do mundo**.
+* Mantém mais de **350 projetos**, entre eles: Apache Spark, Kafka, Hadoop, Flink e muitos outros.
+* É tudo sustentado por uma comunidade enorme: mais de **40 mil contribuidores ativos**.
+* O Apache Spark virou um dos projetos mais bem-sucedidos dentro desse ecossistema.
+
+---
+
+### 🔗 **Links Úteis (todos do material)**
+
+#### 🎥 **Vídeos e sites**
+
+* [Arquitetura do Spark – Advancing Analytics (YouTube)](https://www.youtube.com/watch?v=qEKfyoOUKb8)
+* [Site do Advancing Analytics](https://www.advancinganalytics.co.uk/)
+* [Apache Foundation – Site oficial](https://www.apache.org/)
+* [História da Apache Foundation (vídeo)](https://youtu.be/IGyIuRPUYWk)
+* [Canal do YouTube da Apache Foundation](https://www.youtube.com/c/TheApacheFoundation)
+* [ApacheCon – Conferência oficial](https://apachecon.com/index.html)
+
+#### 📘 **Livros recomendados**
+
+* [Spark: The Definitive Guide (Bill Chambers – Amazon BR)](https://www.amazon.com.br/Spark-Definitive-Guide-Bill-Chambers/dp/1491912219/)
+* [Learning Spark 2ª edição (Jules Damji – Amazon BR)](https://www.amazon.com.br/Learning-Spark-2e-Jules-Damji/dp/1492050040/)
+
+#### 🌊 **Projetos citados**
+
+* [Delta Lake – Site oficial](https://delta.io/)
+* [MLflow – Site oficial](https://mlflow.org/)
+* [Databricks – Página com histórias de clientes](https://www.databricks.com/br/customers)
+
+#### 📅 **Eventos**
+
+* [Data + AI Summit (Virtual e gratuito)](https://www.databricks.com/br/customers)
